@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2015\Projects\RemoveEmptyFolder\RemoveEmptyFolder\bin\Release\RemoveEmptyFolder.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\RemoveEmptyFolder\RemoveEmptyFolder\bin\Release\RemoveEmptyFolder.exe
+c:\users\administrator\documents\visual studio 2015\Projects\RemoveEmptyFolder\RemoveEmptyFolder\bin\Release\RemoveEmptyFolder.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\RemoveEmptyFolder\RemoveEmptyFolder\obj\Release\RemoveEmptyFolder.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\RemoveEmptyFolder\RemoveEmptyFolder\obj\Release\RemoveEmptyFolder.exe
+c:\users\administrator\documents\visual studio 2015\Projects\RemoveEmptyFolder\RemoveEmptyFolder\obj\Release\RemoveEmptyFolder.pdb
